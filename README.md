@@ -21,7 +21,7 @@ Edit these files first:
 - `_projects/en-us/` and `_projects/zh/` - project cards and pages.
 - `_news/en-us/` and `_news/zh/` - dated news items.
 - `_data/en-us/cv.yml` and `_data/zh/cv.yml` - CV content.
-- `assets/img/profile-placeholder.svg` - replace with a real portrait.
+- `assets/img/profile.jpg` - profile portrait used on the bilingual homepage.
 
 ## Local Preview
 

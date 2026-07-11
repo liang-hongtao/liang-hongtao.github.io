@@ -7,7 +7,7 @@ subtitle: Doctoral student at Nanjing University of Aeronautics and Astronautics
 
 profile:
   align: left
-  image: profile-placeholder.svg
+  image: profile.jpg
   image_circular: true
   display_name: Hongtao Liang
   role: Doctoral Student @<br>NUAA

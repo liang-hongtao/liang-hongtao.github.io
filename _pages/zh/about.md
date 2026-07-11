@@ -7,7 +7,7 @@ subtitle: 南京航空航天大学博士研究生。
 
 profile:
   align: left
-  image: profile-placeholder.svg
+  image: profile.jpg
   image_circular: true
   display_name: Hongtao Liang
   role: 博士研究生 @<br>NUAA

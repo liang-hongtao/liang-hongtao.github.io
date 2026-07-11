@@ -7,7 +7,7 @@ first_name: Hongtao
 middle_name:
 last_name: Liang
 keywords: academic homepage, wireless sensing, RSSI localization, robotics, multi-robot systems
-icon: profile-placeholder.svg # emoji or image filename in /assets/img/
+icon: profile.jpg # emoji or image filename in /assets/img/
 
 url: https://liang-hongtao.github.io # update after creating the GitHub Pages repository
 baseurl: # leave blank for a personal USERNAME.github.io site
