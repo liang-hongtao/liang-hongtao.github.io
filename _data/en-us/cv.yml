@@ -46,9 +46,14 @@
     - title: Cooperative RSSI Localization
       year: 2026 - now
       description: Reproducible algorithms, baselines, metrics, and experiment campaigns for cooperative RF localization.
-    - title: Dataset or Benchmark Name
-      year: 2025 - now
-      description: Scene profiles, split manifests, evaluation metrics, and release documentation.
+    - title: Research on Localization, Navigation, and Fault-Tolerant Control Technologies for Low-Altitude Autonomous Exploration Missions
+      institution: Interdisciplinary Innovation Fund for Doctoral Students of Nanjing University of Aeronautics and Astronautics
+      year: 2026-05
+      description: Project proposal submitted to the sixth Graduate Top Innovation Talent Training "Navigation Plan" interdisciplinary innovation fund.
+    - title: Embodied Localization of Non-Cooperative Radio Emitters in GNSS-Denied Environments
+      institution: "Postgraduate Research & Practice Innovation Program of Jiangsu Province"
+      year: 2026-06-24
+      description: Project proposal submitted to the 2026 Jiangsu Province postgraduate research and practice innovation program.
 
 - title: Honors and Awards
   type: time_table

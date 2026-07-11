@@ -46,9 +46,14 @@
     - title: 协同 RSSI 定位
       year: 2026 - 至今
       description: 面向协同射频定位的可复现实验、基线、指标和实验活动。
-    - title: 数据集或基准名称
-      year: 2025 - 至今
-      description: 场景配置、划分清单、评价指标和发布文档。
+    - title: 面向低空自主探索任务的定位导航与容错控制技术研究
+      institution: 南京航空航天大学研究生拔尖创新人才培养“引航计划”六期跨学科创新基金项目
+      year: 2026-05
+      description: 项目申报。
+    - title: GNSS拒止环境下非合作辐射源具身定位
+      institution: 2026年度江苏省研究生科研实践创新计划项目
+      year: 2026-06-24
+      description: 项目申报。
 
 - title: 荣誉奖励
   type: time_table
