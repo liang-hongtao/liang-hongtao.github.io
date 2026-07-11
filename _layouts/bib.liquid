@@ -1,8 +1,9 @@
 ---
 ---
+{% assign conference_entry_types = 'inproceedings,incollection' | split: ',' %}
 <div class="row">
   {% if site.enable_publication_thumbnails %}
-    <div class="col col-sm-2 abbr">
+    <div class="col col-sm-2 abbr{% if conference_entry_types contains entry.type %} conference-abbr{% endif %}">
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}

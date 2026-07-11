@@ -778,6 +778,13 @@ footer.sticky-bottom {
         }
       }
 
+      .conference-abbr {
+        abbr,
+        abbr a {
+          font-weight: 400;
+        }
+      }
+
       .title {
         font-weight: bolder;
       }
