@@ -60,7 +60,7 @@ latest_posts:
 ## 代表项目
 
 - **“引航计划”六期跨学科创新基金项目（已入选，2026）：** [面向低空自主探索任务的定位导航与容错控制技术研究](/zh/projects/low-altitude-autonomous-exploration/)。
-- **研究生创新实验竞赛培育项目（2024）：** [多模态感知驱动的具身无人机自主导航系统](/zh/projects/multimodal-embodied-uav-navigation/)。
+- **2026年度江苏省研究生科研实践创新计划项目：** [GNSS拒止环境下非合作辐射源具身定位](/zh/projects/gnss-denied-emitter-localization/)。
 
 ## 代表性荣誉
 

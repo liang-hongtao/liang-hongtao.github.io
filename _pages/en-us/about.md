@@ -60,7 +60,7 @@ I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NU
 ## Selected Projects
 
 - **Sixth-cohort “Navigation Plan” Interdisciplinary Innovation Fund (selected, 2026):** [Localization, Navigation, and Fault-Tolerant Control for Low-Altitude Autonomous Exploration](/projects/low-altitude-autonomous-exploration/).
-- **Graduate Innovation Experiment Competition Incubation Project (2024):** [Multimodal Perception-Driven Embodied UAV Autonomous Navigation System](/projects/multimodal-embodied-uav-navigation/).
+- **2026 Postgraduate Research & Practice Innovation Program of Jiangsu Province:** [Embodied Localization of Non-Cooperative Radio Emitters in GNSS-Denied Environments](/projects/gnss-denied-emitter-localization/).
 
 ## Selected Honors
 
