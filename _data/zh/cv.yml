@@ -15,11 +15,14 @@
 - title: 教育经历
   type: time_table
   contents:
-    - title: 博士研究生
+    - title: 博士研究生（信息与通信工程）
       institution: 南京航空航天大学，中国南京
-      year: 2022 - 至今
+      year: 2023 - 至今
       description:
         - 无线感知、频谱智能、射频-视觉融合、无人机感知与具身智能。
+    - title: 本科（信息工程，卓越计划）
+      institution: 南京航空航天大学，中国南京
+      year: 2019 - 2023
 
 - title: 代表项目
   type: time_table
@@ -53,6 +56,9 @@
         - 3S 杯，全国二等奖。
         - 科研创新先进个人。
         - 优秀研究生干部。
+    - year: 2024
+      items:
+        - 江苏省普通高等学校本专科毕业设计（论文），一等奖。
     - year: 2023
       items:
         - 南京航空航天大学本科生优秀毕业设计（论文），一等奖。

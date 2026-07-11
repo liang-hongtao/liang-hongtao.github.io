@@ -47,7 +47,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a **Ph.D. student in the College of Electronic and Information Engineering at Nanjing University of Aeronautics and Astronautics (NUAA)**. My research focuses on **embodied wireless intelligence and low-altitude autonomous systems**, at the intersection of wireless sensing, spectrum intelligence, RF-vision fusion, and autonomous UAV navigation. I study how intelligent agents can use radio, vision, and LiDAR observations to localize, map, perceive targets, and make decisions in GNSS-denied and unknown environments.
+I am a **Ph.D. student in Information and Communication Engineering at the College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)**. My research focuses on **embodied wireless intelligence and low-altitude autonomous systems**, at the intersection of wireless sensing, spectrum intelligence, RF-vision fusion, and autonomous UAV navigation. I study how intelligent agents can use radio, vision, and LiDAR observations to localize, map, perceive targets, and make decisions in GNSS-denied and unknown environments.
 
 I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and accepted by IEEE ICC 2026. The ICC paper received the **Best Paper Award** from the Symposium on Communication and Information Systems Security. Our multimodal embodied-UAV navigation project also received the **Outstanding Achievement Award** in NUAA's 14th “Tiangong Cup” Graduate Innovation Experiment Competition.
 
@@ -68,4 +68,4 @@ I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NU
 - Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, 2025.
 - Third Prize, Mission Skills Division, 10th International UAV Innovation Grand Prix, 2025.
 - National Second Prize, 3S Cup, 2025.
-- First Prize, NUAA Outstanding Undergraduate Graduation Design (Thesis), 2023.
+- First Prize, Jiangsu Provincial Outstanding Undergraduate Graduation Design (Thesis), 2024.

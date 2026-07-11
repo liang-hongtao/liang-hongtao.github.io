@@ -14,6 +14,7 @@ nav_order: 4
 - **2025** Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, for *Multimodal Perception-Driven Embodied UAV Autonomous Navigation System*.
 - **2025** Third Prize, Mission Skills Division, Aircraft Application Skills Competition, 10th International UAV Innovation Grand Prix, for the *Xihe* team entry.
 - **2025** National Second Prize, 3S Cup.
+- **2024** First Prize, Jiangsu Provincial Outstanding Undergraduate Graduation Design (Thesis).
 - **2023** First Prize, NUAA Outstanding Undergraduate Graduation Design (Thesis), for *Wireless SLAM Research Based on a UAV Spectrum Cognition Instrument*.
 - **2023** Second Prize, Xingzhi Cup National Artificial Intelligence Innovation Application Competition.
 - **2023** First Prize, Undergraduate Academic Forum.

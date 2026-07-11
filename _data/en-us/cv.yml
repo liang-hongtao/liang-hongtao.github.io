@@ -15,11 +15,14 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Student
+    - title: Ph.D. Student in Information and Communication Engineering
       institution: Nanjing University of Aeronautics and Astronautics, Nanjing, China
-      year: 2022 - Present
+      year: 2023 - Present
       description:
         - Wireless sensing, spectrum intelligence, RF-vision fusion, UAV perception, and embodied intelligence.
+    - title: B.Eng. in Information Engineering (Excellence Program)
+      institution: Nanjing University of Aeronautics and Astronautics, Nanjing, China
+      year: 2019 - 2023
 
 - title: Selected Projects
   type: time_table
@@ -53,6 +56,9 @@
         - National Second Prize, 3S Cup.
         - Advanced Individual in Research Innovation, NUAA.
         - Outstanding Graduate Student Cadre, NUAA.
+    - year: 2024
+      items:
+        - First Prize, Jiangsu Provincial Outstanding Undergraduate Graduation Design (Thesis).
     - year: 2023
       items:
         - First Prize, NUAA Outstanding Undergraduate Graduation Design (Thesis).
