@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Navigation Plan Project Proposal
+title: Selected for the Navigation Plan Interdisciplinary Innovation Fund
 date: 2026-05-01 12:00:00+0800
 display_date: May 2026
 inline: true
 related_posts: false
 ---
 
-Submitted the project proposal "[Research on Localization, Navigation, and Fault-Tolerant Control Technologies for Low-Altitude Autonomous Exploration Missions](/projects/low-altitude-autonomous-exploration/)" to the sixth Interdisciplinary Innovation Fund for Doctoral Students of Nanjing University of Aeronautics and Astronautics.
+Selected for the sixth Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training "Navigation Plan" with the project "[Research on Localization, Navigation, and Fault-Tolerant Control Technologies for Low-Altitude Autonomous Exploration Missions](/projects/low-altitude-autonomous-exploration/)."

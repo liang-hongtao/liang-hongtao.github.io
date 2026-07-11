@@ -3,14 +3,14 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral student at Nanjing University of Aeronautics and Astronautics.
+subtitle: Ph.D. student working on embodied wireless intelligence and low-altitude autonomous systems.
 
 profile:
   align: left
   image: profile.jpg
   image_circular: true
   display_name: Hongtao Liang
-  role: Doctoral Student @<br>NUAA
+  role: Ph.D. Student @<br>NUAA
   links:
     - label: Nanjing
       icon: fa-solid fa-location-dot
@@ -47,10 +47,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a **doctoral student at Nanjing University of Aeronautics and Astronautics**, working on wireless sensing, spectrum intelligence, RF-vision fusion, UAV perception, and embodied intelligence for future wireless networks.
-My current research studies how distributed robots can use noisy wireless measurements to infer target locations, plan informative actions, and build reproducible benchmarks for embodied wireless intelligence.
+I am a **Ph.D. student in the College of Electronic and Information Engineering at Nanjing University of Aeronautics and Astronautics (NUAA)**. My research focuses on **embodied wireless intelligence and low-altitude autonomous systems**, at the intersection of wireless sensing, spectrum intelligence, RF-vision fusion, and autonomous UAV navigation. I study how intelligent agents can use radio, vision, and LiDAR observations to localize, map, perceive targets, and make decisions in GNSS-denied and unknown environments.
 
-I am especially interested in algorithms that connect **radio-signal structure**, **robot motion**, and **decision-making under uncertainty**.
+I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and accepted by IEEE ICC 2026. The ICC paper received the **Best Paper Award** from the Symposium on Communication and Information Systems Security. Our multimodal embodied-UAV navigation project also received the **Outstanding Achievement Award** in NUAA's 14th “Tiangong Cup” Graduate Innovation Experiment Competition.
 
 ## Research Interests
 
@@ -58,12 +57,10 @@ I am especially interested in algorithms that connect **radio-signal structure**
 - **Planning under uncertainty:** informative action selection, lookahead policies, rescue/service strategies, and robust final estimation.
 - **Embodied wireless intelligence:** deployable sensing systems that connect RF observations with robot mobility and scene understanding.
 
-## Current Focus
+## Selected Projects
 
-- Reproducible experiments and baselines for cooperative RSSI localization.
-- Paper-ready figures, tables, and evidence tracking for academic manuscripts.
-- Clean open-source release of research code and experiment protocols.
-- Later transition from simulation to multi-robot and ROS deployment.
+- **Sixth-cohort “Navigation Plan” Interdisciplinary Innovation Fund (selected, 2026):** [Localization, Navigation, and Fault-Tolerant Control for Low-Altitude Autonomous Exploration](/projects/low-altitude-autonomous-exploration/).
+- **Graduate Innovation Experiment Competition Incubation Project (2024):** [Multimodal Perception-Driven Embodied UAV Autonomous Navigation System](/projects/multimodal-embodied-uav-navigation/).
 
 ## Selected Honors
 
@@ -71,6 +68,4 @@ I am especially interested in algorithms that connect **radio-signal structure**
 - Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, 2025.
 - Third Prize, Mission Skills Division, 10th International UAV Innovation Grand Prix, 2025.
 - National Second Prize, 3S Cup, 2025.
-- Second Prize, Xingzhi Cup National Artificial Intelligence Innovation Application Competition, 2023.
-- First Prize, Undergraduate Academic Forum, 2023.
-- Honorable Mention, Mathematical Contest in Modeling, 2022 and 2023.
+- First Prize, NUAA Outstanding Undergraduate Graduation Design (Thesis), 2023.
