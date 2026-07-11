@@ -49,7 +49,7 @@ latest_posts:
 
 I am a **Ph.D. student in Information and Communication Engineering at the College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)**. My research focuses on **embodied wireless intelligence and low-altitude autonomous systems**, at the intersection of wireless sensing, spectrum intelligence, RF-vision fusion, and autonomous UAV navigation. I study how intelligent agents can use radio, vision, and LiDAR observations to localize, map, perceive targets, and make decisions in GNSS-denied and unknown environments.
 
-I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and Nature Portfolio's *Communications Engineering*, and accepted by IEEE ICC 2026. The ICC paper received the **Best Paper Award** from the Symposium on Communication and Information Systems Security.
+I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and Nature Portfolio's *Communications Engineering*, and accepted by IEEE ICC 2026. The ICC paper received the **IEEE ICC 2026 Best Paper Award**.
 
 ## Research Interests
 
@@ -64,7 +64,7 @@ I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NU
 
 ## Selected Honors
 
-- Best Paper Award, Symposium on Communication and Information Systems Security, IEEE ICC, 2026.
+- IEEE ICC Best Paper Award, 2026.
 - Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, 2025.
 - Third Prize, Mission Skills Division, 10th International UAV Innovation Grand Prix, 2025.
 - National Second Prize, 11th 3S Cup Competition on Internet of Things Technology and Applications for University Students ("Three Innovations"), 2025.

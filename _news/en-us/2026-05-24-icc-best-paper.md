@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Our accepted IEEE ICC 2026 paper, "[RF-Vision Fusion Non-Cooperative UAV Detection and Identification for Low-Altitude Security](/publications/#wan2026rfvision)," received the Best Paper Award from the Symposium on Communication and Information Systems Security; IEEE Xplore indexing is pending.
+Our accepted paper, "[RF-Vision Fusion Non-Cooperative UAV Detection and Identification for Low-Altitude Security](/publications/#wan2026rfvision)," received the IEEE ICC 2026 Best Paper Award; IEEE Xplore indexing is pending.

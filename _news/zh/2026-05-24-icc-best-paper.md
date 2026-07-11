@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-已录用的 IEEE ICC 2026 论文“[面向低空安全的射频-视觉融合非合作无人机检测与识别](/zh/publications/#wan2026rfvision)”获通信与信息系统安全专题研讨会最佳论文奖，IEEE Xplore 尚待检索。
+已录用的论文“[面向低空安全的射频-视觉融合非合作无人机检测与识别](/zh/publications/#wan2026rfvision)”获 IEEE ICC 2026 最佳论文奖，IEEE Xplore 尚待检索。

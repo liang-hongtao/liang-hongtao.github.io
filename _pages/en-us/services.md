@@ -10,7 +10,7 @@ nav_order: 4
 
 ## Selected Honors
 
-- **2026** Best Paper Award, Symposium on Communication and Information Systems Security, IEEE International Conference on Communications (ICC), for *RF-Vision Fusion Non-Cooperative UAV Detection and Identification for Low-Altitude Security*.
+- **2026** IEEE ICC Best Paper Award, for *RF-Vision Fusion Non-Cooperative UAV Detection and Identification for Low-Altitude Security*.
 - **2025** Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, for *Multimodal Perception-Driven Embodied UAV Autonomous Navigation System*.
 - **2025** Third Prize, Mission Skills Division, Aircraft Application Skills Competition, 10th International UAV Innovation Grand Prix, for the *Xihe* team entry.
 - **2025** National Second Prize, 11th 3S Cup Competition on Internet of Things Technology and Applications for University Students ("Three Innovations").
