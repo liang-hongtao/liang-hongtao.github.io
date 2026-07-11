@@ -47,7 +47,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a **Ph.D. student in Information and Communication Engineering at the College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)**. My research focuses on **embodied wireless intelligence and low-altitude autonomous systems**, at the intersection of wireless sensing, spectrum intelligence, RF-vision fusion, and autonomous UAV navigation. I study how intelligent agents can use radio, vision, and LiDAR observations to localize, map, perceive targets, and make decisions in GNSS-denied and unknown environments.
+I am a **Ph.D. student in Information and Communication Engineering at the College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)**, advised by **Prof. Qihui Wu, an IEEE Fellow**. My research focuses on **embodied wireless intelligence and low-altitude autonomous systems**, at the intersection of wireless sensing, spectrum intelligence, RF-vision fusion, and autonomous UAV navigation. I study how intelligent agents can use radio, vision, and LiDAR observations to localize, map, perceive targets, and make decisions in GNSS-denied and unknown environments.
 
 I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and Nature Portfolio's *Communications Engineering*, and accepted by IEEE ICC 2026. The ICC paper received the **IEEE ICC 2026 Best Paper Award**.
 
