@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 江苏省研究生科研实践创新计划项目申报
+title: 获批江苏省研究生科研实践创新计划项目
 date: 2026-06-24 12:00:00+0800
 display_date: 2026年6月
 inline: true
 related_posts: false
 ---
 
-申报2026年度江苏省研究生科研实践创新计划项目“[GNSS拒止环境下非合作辐射源具身定位](/zh/projects/gnss-denied-emitter-localization/)”。
+项目“[GNSS拒止环境下非合作辐射源具身定位](/zh/projects/gnss-denied-emitter-localization/)”获批2026年度江苏省研究生科研实践创新计划项目。
