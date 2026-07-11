@@ -67,5 +67,5 @@ I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NU
 - Best Paper Award, Symposium on Communication and Information Systems Security, IEEE ICC, 2026.
 - Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, 2025.
 - Third Prize, Mission Skills Division, 10th International UAV Innovation Grand Prix, 2025.
-- National Second Prize, 3S Cup, 2025.
+- National Second Prize, 11th 3S Cup Competition on Internet of Things Technology and Applications for University Students ("Three Innovations"), 2025.
 - First Prize, Jiangsu Provincial Outstanding Undergraduate Graduation Design (Thesis), 2024.
