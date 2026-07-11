@@ -1,0 +1,94 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hongtao Liang
+    - name: Position
+      value: Doctoral Student
+    - name: Affiliation
+      value: College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics
+    - name: Email
+      value: <a href="mailto:ceie.lht@nuaa.edu.cn">ceie.lht@nuaa.edu.cn</a>
+    - name: Research Areas
+      value: Wireless sensing, spectrum intelligence, RF-vision fusion, UAV perception, embodied intelligence
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. / M.S.
+      institution: Nanjing University of Aeronautics and Astronautics, Nanjing, China
+      year: 2022 - 2026
+      description:
+        - Replace with your degree, supervisor, thesis title, and research direction.
+    - title: B.S.
+      institution: Add your previous institution
+      year: 2018 - 2022
+      description:
+        - Replace with your undergraduate degree and major.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Position
+      institution: College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics
+      year: 2026 - now
+      description:
+        - Add your current appointment, lab role, and major responsibilities.
+    - title: Visiting / Research Assistant Position
+      institution: Host Institution
+      year: 2024 - 2025
+      description:
+        - Add visiting, internship, or research assistant experience if applicable.
+
+- title: Selected Projects
+  type: time_table
+  contents:
+    - title: Cooperative RSSI Localization
+      year: 2026 - now
+      description: Reproducible algorithms, baselines, metrics, and experiment campaigns for cooperative RF localization.
+    - title: Dataset or Benchmark Name
+      year: 2025 - now
+      description: Scene profiles, split manifests, evaluation metrics, and release documentation.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - National Second Prize, 3S Cup.
+    - year: 2023
+      items:
+        - Second Prize, Xingzhi Cup National Artificial Intelligence Innovation Application Competition.
+        - First Prize, Undergraduate Academic Forum.
+        - University Achievement Award Nomination.
+        - Honorable Mention, Mathematical Contest in Modeling.
+        - Merit Student and Excellent Student Scholarship.
+    - year: 2022
+      items:
+        - Honorable Mention, Mathematical Contest in Modeling.
+        - Undergraduate Innovation Training Program completion certificate.
+        - Excellent Performance, China-Korea Outstanding College Students Summer Camp.
+        - Excellent Volunteer, Aerospace Competition, provincial level.
+        - Academic Scholarship and Merit Student.
+    - year: 2021
+      items:
+        - First-Class Academic Scholarship.
+        - Third Prize, Undergraduate Academic Forum.
+        - Excellent University Volunteer and Practice Pioneer.
+    - year: 2020
+      items:
+        - Academic Scholarship and Excellent Student Scholarship.
+        - Outstanding League Member, Merit Student, and Outstanding Student Cadre.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Cooperative RF Localization
+      items:
+        - RSSI belief updates, active sensing, source seeking, and target localization.
+    - title: Planning Under Uncertainty
+      items:
+        - Informative action selection, lookahead, rescue/service strategies, and robust estimation.
+    - title: Embodied Wireless Intelligence
+      items:
+        - RF perception, robot mobility, and deployable sensing systems.

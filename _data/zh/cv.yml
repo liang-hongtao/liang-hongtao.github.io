@@ -1,0 +1,94 @@
+- title: 基本信息
+  type: map
+  contents:
+    - name: 姓名
+      value: 梁宏韬 / Hongtao Liang
+    - name: 职位
+      value: 博士研究生
+    - name: 单位
+      value: 南京航空航天大学电子信息工程学院
+    - name: 邮箱
+      value: <a href="mailto:ceie.lht@nuaa.edu.cn">ceie.lht@nuaa.edu.cn</a>
+    - name: 研究方向
+      value: 无线感知、频谱智能、射频-视觉融合、无人机感知、具身智能
+
+- title: 教育经历
+  type: time_table
+  contents:
+    - title: 博士 / 硕士
+      institution: 南京航空航天大学，中国南京
+      year: 2022 - 2026
+      description:
+        - 替换为学位、导师、论文题目和研究方向。
+    - title: 学士
+      institution: 补充此前就读单位
+      year: 2018 - 2022
+      description:
+        - 替换为本科专业和学校。
+
+- title: 工作与科研经历
+  type: time_table
+  contents:
+    - title: 科研岗位
+      institution: 你的实验室或院系，单位
+      year: 2026 - 至今
+      description:
+        - 补充当前岗位、实验室角色和主要职责。
+    - title: 访问 / 科研助理经历
+      institution: 访问单位
+      year: 2024 - 2025
+      description:
+        - 如有访问、实习或科研助理经历，可在这里补充。
+
+- title: 代表项目
+  type: time_table
+  contents:
+    - title: 协同 RSSI 定位
+      year: 2026 - 至今
+      description: 面向协同射频定位的可复现实验、基线、指标和实验活动。
+    - title: 数据集或基准名称
+      year: 2025 - 至今
+      description: 场景配置、划分清单、评价指标和发布文档。
+
+- title: 荣誉奖励
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - 3S 杯，全国二等奖。
+    - year: 2023
+      items:
+        - 兴智杯全国人工智能创新应用大赛，二等奖。
+        - 本科生学术论坛，一等奖。
+        - 大学成就奖提名奖。
+        - 美国大学生数学建模竞赛 Honorable Mention。
+        - 三好学生与优秀奖学金二等奖。
+    - year: 2022
+      items:
+        - 美国大学生数学建模竞赛 Honorable Mention。
+        - 大学生创新创业训练计划结题。
+        - 中韩优秀大学生夏令营，表现优异。
+        - 航天大赛优秀志愿者，省级。
+        - 学业奖学金二等奖与三好学生。
+    - year: 2021
+      items:
+        - 学业奖学金一等奖。
+        - 本科生学术论坛三等奖。
+        - 校级优秀志愿者与实践先锋。
+    - year: 2020
+      items:
+        - 学业奖学金与优秀学生奖学金。
+        - 优秀团员、三好学生、优秀学生干部。
+
+- title: 学术兴趣
+  type: nested_list
+  contents:
+    - title: 协同射频定位
+      items:
+        - RSSI 信念更新、主动感知、信号源搜索与目标定位。
+    - title: 不确定性下的规划
+      items:
+        - 信息驱动动作选择、前瞻策略、救援/服务策略与鲁棒估计。
+    - title: 具身无线智能
+      items:
+        - 射频感知、机器人运动能力与可部署感知系统。

@@ -1,0 +1,165 @@
+archive:
+  prefix: 归档
+  category_suffix: 在此分类中
+  tag_suffix: 使用此标签
+  year_suffix: 来自这一年
+bibliography:
+  abstract: Abs
+  awarded: 奖项
+  blog: Blog
+  book_prefix: In
+  code: Code
+  last_author_prefix: and
+  poster: Poster
+  slides: Slides
+  supp: Supp
+  video: Video
+  website: Website
+blog:
+  navigation_title: 博客
+categories:
+  fun: 趣味
+  research: 研究
+  software: 软件
+  work: 工作
+citation:
+  bibtex: "or as a BibTeX entry:"
+  introduction: "If you found this useful, please cite this as:"
+collections:
+  books: books
+  posts: posts
+contact_note: 欢迎通过邮件联系我讨论研究合作。
+cv:
+  address: Address
+  area: Area
+  awarder: Awarder
+  awards: Awards
+  basics: General information
+  certificates: Certificates
+  city: City
+  countryCode: Country code
+  courses: Courses
+  date: Date
+  education: Education
+  email: Email
+  endDate: End date
+  fluency: Fluency
+  highlights: Highlights
+  image: Image
+  institution: Institution
+  interests: Interests
+  issuer: Issuer
+  keywords: Keywords
+  label: Label
+  language: Language
+  languages: Languages
+  level: Level
+  location: Location
+  name: Name
+  network: Network
+  organization: Organization
+  phone: Phone
+  position: Position
+  postalCode: Postal Code
+  present: Present
+  profiles: Profiles
+  projects: Projects
+  publications: Publications
+  publisher: Publisher
+  reference: Reference
+  references: References
+  region: Region
+  releaseDate: Release date
+  score: Score
+  skills: Skills
+  startDate: Start date
+  studyType: Study type
+  summary: Summary
+  table_of_contents: Table of Contents
+  title: Title
+  url: Url
+  username: Username
+  volunteer: Volunteer
+  work: Work
+footer:
+  copyright: 版权所有
+  last_updated: "最后更新："
+footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+  本站由 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 与 <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> 主题驱动。
+  托管于 <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>。
+latest_posts: 最新文章
+months:
+  long:
+    january: January
+    february: February
+    march: March
+    april: April
+    may: May
+    june: June
+    july: July
+    august: August
+    september: September
+    october: October
+    november: November
+    december: December
+  short:
+    january: Jan
+    february: Feb
+    march: Mar
+    april: Apr
+    may: May
+    june: Jun
+    july: Jul
+    august: Aug
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Dec
+news: 新闻
+newsletter:
+  back: Back
+  error: "Oops! Something went wrong, please try again."
+  subscribe: subscribe
+  subscribed: "You have successfully subscribed to the newsletter."
+  subscribe_to_receive: "Subscribe to be notified of future articles:"
+  too_many_signups: "Too many signups, please try again in a little while"
+  wait: "Please wait..."
+no_news: 暂无新闻
+no_posts: "暂无文章"
+pagination:
+  page: page
+post:
+  created_in: Created in
+  created_by: by
+  last_updated: last updated in
+references: 参考文献
+related_posts:
+  description: "Here are some more articles you might like to read next:"
+  title: Enjoy Reading This Article?
+search:
+  dark_theme:
+    description: Change the theme of the site to Dark
+    title: Change theme to dark
+  dropdown: Dropdown
+  email: Send an email
+  footer:
+    close: to close
+    navigate: to navigate
+    parent: move to parent
+    select: to select
+  languages: Languages
+  light_theme:
+    description: Change the theme of the site to Light
+    title: Change theme to light
+  navigation: Navigation menu
+  news: News
+  placeholder: Type to start searching
+  posts: Posts
+  projects: Projects
+  socials: Socials
+  system_theme:
+    description: Change the theme of the site to System Default
+    title: Use system default theme
+  theme: Theme
+selected_publications: 代表论文
+site_description: 无线感知、协同定位与具身智能方向学术主页。

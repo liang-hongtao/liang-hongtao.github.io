@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Profile photo placeholder</title>
+  <desc id="desc">A neutral academic profile placeholder.</desc>
+  <rect width="512" height="512" fill="#f5f6f7"/>
+  <circle cx="256" cy="188" r="82" fill="#d8dde3"/>
+  <path d="M106 430c18-88 76-136 150-136s132 48 150 136" fill="#d8dde3"/>
+  <rect x="28" y="28" width="456" height="456" fill="none" stroke="#d5d8dc" stroke-width="4"/>
+  <text x="256" y="468" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" fill="#006eb8">Hongtao Liang</text>
+</svg>

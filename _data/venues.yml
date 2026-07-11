@@ -1,0 +1,15 @@
+"JSAC":
+  url: https://www.comsoc.org/publications/journals/ieee-jsac
+  color: "#00369f"
+
+"IoTJ":
+  url: https://ieee-iotj.org/
+  color: "#00629b"
+
+"CL":
+  url: https://www.comsoc.org/publications/journals/ieee-communications-letters
+  color: "#2f80c1"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

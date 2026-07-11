@@ -1,0 +1,174 @@
+/******************************************************************************
+ * Content
+ ******************************************************************************/
+
+body {
+  padding-bottom: 0;
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    scroll-margin-top: 66px;
+  }
+}
+
+body.fixed-top-nav {
+  // Add some padding for the nav-bar.
+  padding-top: 57px;
+}
+
+body.sticky-bottom-footer {
+  // Remove padding below footer.
+  padding-bottom: 0;
+}
+
+.container {
+  max-width: $max-content-width;
+}
+
+// Profile
+.profile {
+  img {
+    width: 100%;
+  }
+}
+
+.academic-home {
+  .academic-sidebar {
+    top: 5rem;
+  }
+
+  .sidebar-content {
+    font-size: 0.95rem;
+  }
+
+  .profile-sidebar-image {
+    width: 100%;
+    max-width: 185px;
+  }
+
+  .sidebar-name {
+    color: var(--global-text-color);
+    font-size: 1.55rem;
+    line-height: 1.2;
+    margin-bottom: 0.8rem;
+  }
+
+  .sidebar-title {
+    color: var(--global-text-color-light);
+    font-size: 1.02rem;
+    font-weight: 300;
+    line-height: 1.42;
+    margin: 0 auto;
+    max-width: 12rem;
+  }
+
+  .sidebar-more-info {
+    color: var(--global-text-color);
+    margin-bottom: 1rem;
+
+    p {
+      margin-bottom: 0.35rem;
+    }
+  }
+
+  .sidebar-links {
+    margin: 1.55rem auto 0;
+    max-width: 12.5rem;
+    text-align: left;
+  }
+
+  .sidebar-link-item {
+    display: grid;
+    grid-template-columns: 2rem minmax(0, 1fr);
+    align-items: center;
+    column-gap: 0.8rem;
+    min-height: 2.45rem;
+    color: var(--global-text-color);
+    font-size: 1.05rem;
+    line-height: 1.2;
+
+    a {
+      color: var(--global-text-color);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-theme-color);
+        text-decoration: none;
+      }
+    }
+
+    .researchgate-link {
+      color: var(--global-theme-color);
+    }
+  }
+
+  .sidebar-link-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    font-size: 1.22rem;
+    text-align: center;
+
+    .ai,
+    .fa-brands,
+    .fa-solid {
+      width: 1.35rem;
+      text-align: center;
+    }
+  }
+
+  .sidebar-social {
+    display: none;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .academic-home {
+    .academic-sidebar {
+      position: static;
+      margin-bottom: 2rem;
+    }
+
+    .profile-sidebar-image {
+      max-width: 145px;
+    }
+
+    .sidebar-name {
+      font-size: 1.35rem;
+    }
+
+    .sidebar-title {
+      font-size: 0.95rem;
+    }
+
+    .sidebar-links {
+      max-width: 12.5rem;
+    }
+
+    .sidebar-link-item {
+      font-size: 1rem;
+      min-height: 2.3rem;
+    }
+  }
+}
+
+// TODO: redefine content layout.
+
+/******************************************************************************
+ * Publications
+ ******************************************************************************/
+
+// TODO: redefine publications layout.
+
+/*****************************************************************************
+* Projects
+*****************************************************************************/
+
+// TODO: redefine projects layout.
