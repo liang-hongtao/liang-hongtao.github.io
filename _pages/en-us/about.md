@@ -68,6 +68,8 @@ This homepage is built to keep publications, projects, news, honors, service, an
 
 ## Selected Honors
 
+- Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, 2025.
+- Third Prize, Mission Skills Division, 10th International UAV Innovation Grand Prix, 2025.
 - National Second Prize, 3S Cup, 2025.
 - Second Prize, Xingzhi Cup National Artificial Intelligence Innovation Application Competition, 2023.
 - First Prize, Undergraduate Academic Forum, 2023.

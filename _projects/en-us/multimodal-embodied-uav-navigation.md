@@ -14,3 +14,7 @@ category: research
 **Project type:** Incubation project
 
 The project studies an embodied UAV autonomous navigation system driven by multimodal environmental perception and intelligent decision-making.
+
+## Recognition
+
+- Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, December 2025.
