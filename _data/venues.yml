@@ -10,6 +10,10 @@
   url: https://www.comsoc.org/publications/journals/ieee-communications-letters
   color: "#2f80c1"
 
+"ComMag":
+  url: https://www.comsoc.org/publications/magazines/ieee-communications-magazine
+  color: "#007377"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
