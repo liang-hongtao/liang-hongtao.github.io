@@ -49,7 +49,7 @@ latest_posts:
 
 我是 **南京航空航天大学电子信息工程学院信息与通信工程专业博士研究生**，研究聚焦 **具身无线智能与低空无人系统**，重点探索无线感知、频谱智能、射频-视觉融合与无人机自主导航的交叉问题。我致力于让智能体在 GNSS 拒止和未知环境中，利用无线、视觉与激光雷达等多模态观测完成定位、建图、目标感知和自主决策。
 
-我入选 **南京航空航天大学研究生拔尖创新人才培养“引航计划”六期跨学科创新基金**。以第一作者在 *IEEE Communications Magazine*、*IEEE Communications Letters* 等期刊发表论文，合作成果发表于 *IEEE Journal on Selected Areas in Communications* 和 Nature Portfolio 旗下 *Communications Engineering*，并被 IEEE ICC 2026 录用；其中 ICC 论文获通信与信息系统安全专题研讨会 **最佳论文奖**。多模态具身无人机导航项目获第十四届“天宫杯”研究生创新实验竞赛 **杰出成果奖**。
+我入选 **南京航空航天大学研究生拔尖创新人才培养“引航计划”六期跨学科创新基金**。以第一作者在 *IEEE Communications Magazine*、*IEEE Communications Letters* 等期刊发表论文，合作成果发表于 *IEEE Journal on Selected Areas in Communications* 和 Nature Portfolio 旗下 *Communications Engineering*，并被 IEEE ICC 2026 录用；其中 ICC 论文获通信与信息系统安全专题研讨会 **最佳论文奖**。
 
 ## 研究方向
 
