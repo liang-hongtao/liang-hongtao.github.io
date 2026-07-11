@@ -1,5 +1,7 @@
 // create element for copy button in code blocks
 var codeBlocks = document.querySelectorAll("pre");
+var copyCodeLabel = document.documentElement.lang === "zh" ? "复制代码" : "Copy code to clipboard";
+var copiedCodeLabel = document.documentElement.lang === "zh" ? "已复制" : "Copied";
 codeBlocks.forEach(function (codeBlock) {
   if (
     (codeBlock.querySelector("pre:not(.lineno)") || codeBlock.querySelector("code")) &&
@@ -15,8 +17,7 @@ codeBlocks.forEach(function (codeBlock) {
     var copyButton = document.createElement("button");
     copyButton.className = "copy";
     copyButton.type = "button";
-    copyButton.ariaLabel = "Copy code to clipboard";
-    copyButton.innerText = "Copy";
+    copyButton.ariaLabel = copyCodeLabel;
     copyButton.innerHTML = '<i class="fa-solid fa-clipboard"></i>';
 
     // get code from code block and copy to clipboard
@@ -33,12 +34,12 @@ codeBlocks.forEach(function (codeBlock) {
         var code = codeBlock.querySelector("code").innerText.trim();
       }
       window.navigator.clipboard.writeText(code);
-      copyButton.innerText = "Copied";
+      copyButton.ariaLabel = copiedCodeLabel;
       copyButton.innerHTML = '<i class="fa-solid fa-clipboard-check"></i>';
       var waitFor = 3000;
 
       setTimeout(function () {
-        copyButton.innerText = "Copy";
+        copyButton.ariaLabel = copyCodeLabel;
         copyButton.innerHTML = '<i class="fa-solid fa-clipboard"></i>';
       }, waitFor);
     });

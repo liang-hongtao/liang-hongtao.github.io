@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Navigation Plan Project Proposal
 date: 2026-05-01 12:00:00+0800
 display_date: May 2026
 inline: true

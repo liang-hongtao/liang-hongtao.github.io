@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Graduation Design First Prize
 date: 2023-12-01 12:00:00+0800
 display_date: Dec 2023
 inline: true

@@ -25,7 +25,7 @@ profile:
     - label: ORCID
       url: https://orcid.org/0000-0003-2014-3503
       icon: ai ai-orcid
-    - label: Github
+    - label: GitHub
       url: https://github.com/liang-hongtao
       icon: fa-brands fa-github
     - label: ResearchGate
@@ -36,7 +36,7 @@ profile:
       icon: fa-solid fa-file-pdf
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: true
@@ -51,7 +51,6 @@ I am a **doctoral student at Nanjing University of Aeronautics and Astronautics*
 My current research studies how distributed robots can use noisy wireless measurements to infer target locations, plan informative actions, and build reproducible benchmarks for embodied wireless intelligence.
 
 I am especially interested in algorithms that connect **radio-signal structure**, **robot motion**, and **decision-making under uncertainty**.
-This homepage is built to keep publications, projects, news, honors, service, and CV information organized in both English and Chinese.
 
 ## Research Interests
 

@@ -15,30 +15,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. / M.S.
+    - title: Ph.D. Student
       institution: Nanjing University of Aeronautics and Astronautics, Nanjing, China
-      year: 2022 - 2026
+      year: 2022 - Present
       description:
-        - Replace with your degree, supervisor, thesis title, and research direction.
-    - title: B.S.
-      institution: Add your previous institution
-      year: 2018 - 2022
-      description:
-        - Replace with your undergraduate degree and major.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Position
-      institution: College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics
-      year: 2026 - now
-      description:
-        - Add your current appointment, lab role, and major responsibilities.
-    - title: Visiting / Research Assistant Position
-      institution: Host Institution
-      year: 2024 - 2025
-      description:
-        - Add visiting, internship, or research assistant experience if applicable.
+        - Wireless sensing, spectrum intelligence, RF-vision fusion, UAV perception, and embodied intelligence.
 
 - title: Selected Projects
   type: time_table

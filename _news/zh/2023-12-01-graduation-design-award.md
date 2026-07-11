@@ -1,5 +1,6 @@
 ---
 layout: post
+title: 本科生优秀毕业设计（论文）一等奖
 date: 2023-12-01 12:00:00+0800
 display_date: 2023年12月
 inline: true

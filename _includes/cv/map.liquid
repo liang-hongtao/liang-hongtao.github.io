@@ -16,7 +16,7 @@
                   {% if item.name %}
                     <a href="{{ item.link }}" target="_blank" class="btncv z-depth-0">{{ item.name }}</a>
                   {% else %}
-                    <a href="{{ item.link }}" target="_blank" class="btncv z-depth-0">doc</a>
+                    <a href="{{ item.link }}" target="_blank" class="btncv z-depth-0">{{ site.data[site.active_lang].strings.document }}</a>
                   {% endif %}
                 </div>
               {% endif %}

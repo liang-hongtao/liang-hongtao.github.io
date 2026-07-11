@@ -1,6 +1,8 @@
 ---
 layout: post
+title: IEEE Communications Magazine 论文发表
 date: 2026-06-22 12:00:00+0800
+display_date: 2026年6月
 inline: true
 related_posts: false
 ---

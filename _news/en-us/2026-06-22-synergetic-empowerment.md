@@ -1,6 +1,8 @@
 ---
 layout: post
+title: IEEE Communications Magazine Publication
 date: 2026-06-22 12:00:00+0800
+display_date: Jun 2026
 inline: true
 related_posts: false
 ---

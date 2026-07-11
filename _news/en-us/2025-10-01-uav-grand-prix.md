@@ -1,5 +1,6 @@
 ---
 layout: post
+title: International UAV Innovation Grand Prix Award
 date: 2025-10-01 12:00:00+0800
 display_date: Oct 2025
 inline: true

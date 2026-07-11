@@ -15,6 +15,10 @@ bibliography:
   supp: Supp
   video: Video
   website: Website
+  more_authors_suffix: more authors
+  one_more_author_suffix: more author
+  view_more_authors: click to view more authors
+  additional_authors_prefix: and
 blog:
   navigation_title: blog
 categories:
@@ -128,6 +132,11 @@ no_news: No news so far...
 no_posts: "No posts so far..."
 pagination:
   page: page
+projects:
+  code_repository: Code repository
+  github_stars: GitHub stars
+  thumbnail: Project thumbnail
+document: document
 post:
   created_in: Created in
   created_by: by
@@ -153,6 +162,7 @@ search:
     title: Change theme to light
   navigation: Navigation menu
   news: News
+  open: Search
   placeholder: Type to start searching
   posts: Posts
   projects: Projects
@@ -161,5 +171,14 @@ search:
     description: Change the theme of the site to System Default
     title: Use system default theme
   theme: Theme
+  change_theme: Change theme
+navigation:
+  current: current page
+  toggle: Toggle navigation
+language_names:
+  en-us: English
+  zh: 中文
+site_name: Hongtao Liang
+about_heading: About Me
 selected_publications: selected publications
 site_description: Academic homepage for wireless sensing, cooperative localization, and embodied intelligence.

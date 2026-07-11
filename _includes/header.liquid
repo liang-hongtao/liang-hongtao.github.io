@@ -4,21 +4,7 @@
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
-          {% if site.title == 'blank' %}
-            {% if site.first_name %}
-              <span class="font-weight-bold">
-                {{- site.first_name -}}
-              </span>
-            {% endif %}
-            {% if site.middle_name %}
-              {{- site.middle_name -}}
-            {% endif %}
-            {% if site.last_name %}
-              {{- site.last_name -}}
-            {% endif %}
-          {% else %}
-            {{- site.title -}}
-          {% endif %}
+          <span class="font-weight-bold">{{ site.data[site.active_lang].strings.site_name }}</span>
         </a>
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
@@ -32,9 +18,9 @@
         data-target="#navbarNav"
         aria-controls="navbarNav"
         aria-expanded="false"
-        aria-label="Toggle navigation"
+        aria-label="{{ site.data[site.active_lang].strings.navigation.toggle }}"
       >
-        <span class="sr-only">Toggle navigation</span>
+        <span class="sr-only">{{ site.data[site.active_lang].strings.navigation.toggle }}</span>
         <span class="icon-bar top-bar"></span>
         <span class="icon-bar middle-bar"></span>
         <span class="icon-bar bottom-bar"></span>
@@ -51,7 +37,7 @@
             <a class="nav-link" href="{{ '/' | relative_url }}">
               {{- about_title }}
               {% if page.permalink == '/' %}
-                <span class="sr-only">(current)</span>
+                <span class="sr-only">({{ site.data[site.active_lang].strings.navigation.current }})</span>
               {% endif %}
             </a>
           </li>
@@ -79,7 +65,7 @@
                   >
                     {{- p.title }}
                     {% if page.title == p.title or has_active_child %}
-                      <span class="sr-only">(current)</span>
+                      <span class="sr-only">({{ site.data[site.active_lang].strings.navigation.current }})</span>
                     {% endif %}
                   </a>
                   <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
@@ -110,7 +96,7 @@
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {{- p.title }}
                     {% if page.url contains p.url %}
-                      <span class="sr-only">(current)</span>
+                      <span class="sr-only">({{ site.data[site.active_lang].strings.navigation.current }})</span>
                     {% endif %}
                   </a>
                 </li>
@@ -120,7 +106,7 @@
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
-              <button id="search-toggle" title="Search" onclick="openSearchModal()">
+              <button id="search-toggle" title="{{ site.data[site.active_lang].strings.search.open }}" onclick="openSearchModal()">
                 <span class="nav-link">ctrl k <i class="ti ti-search"></i></span>
               </button>
             </li>
@@ -139,7 +125,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ other_language | split: "-" | last }}"></span>
                     {% else %}
-                      {{ other_language | upcase }}
+                      {{ site.data[site.active_lang].strings.language_names[other_language] }}
                     {%- endif -%}
                   </a>
                 {% else %}
@@ -147,7 +133,7 @@
                     {% if site.country_flag %}
                       <span class="fi fi-{{ site.default_lang | split: "-" | last }}"></span>
                     {% else %}
-                      {{ site.default_lang | upcase }}
+                      {{ site.data[site.active_lang].strings.language_names[site.default_lang] }}
                     {%- endif -%}
                   </a>
                 {% endif %}
@@ -169,7 +155,7 @@
                     {{- site.active_lang | upcase }}
                   {%- endif -%}
                   {% if page.title == p.title %}
-                    <span class="sr-only">(current)</span>
+                    <span class="sr-only">({{ site.data[site.active_lang].strings.navigation.current }})</span>
                   {% endif %}
                 </a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
@@ -184,7 +170,7 @@
                           {% if site.country_flag %}
                             <span class="fi fi-{{ l | split: "-" | last }}"></span>
                           {% else %}
-                            {{ l | upcase }}
+                            {{ site.data[site.active_lang].strings.language_names[l] }}
                           {%- endif -%}
                         </a>
                       {% else %}
@@ -192,7 +178,7 @@
                           {% if site.country_flag %}
                             <span class="fi fi-{{ l | split: "-" | last }}"></span>
                           {% else %}
-                            {{ l | upcase }}
+                            {{ site.data[site.active_lang].strings.language_names[l] }}
                           {%- endif -%}
                         </a>
                       {% endif %}
@@ -206,7 +192,7 @@
           {% if site.enable_darkmode %}
             <!-- Toogle theme mode -->
             <li class="toggle-container">
-              <button id="light-toggle" title="Change theme">
+              <button id="light-toggle" title="{{ site.data[site.active_lang].strings.search.change_theme }}">
                 <i class="ti ti-sun-moon" id="light-toggle-system"></i>
                 <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
                 <i class="ti ti-sun-filled" id="light-toggle-light"></i>

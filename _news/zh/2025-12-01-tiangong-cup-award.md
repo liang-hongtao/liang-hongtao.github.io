@@ -1,5 +1,6 @@
 ---
 layout: post
+title: “天宫杯”研究生创新实验竞赛杰出成果奖
 date: 2025-12-01 12:00:00+0800
 display_date: 2025年12月
 inline: true

@@ -1,5 +1,6 @@
 ---
 layout: post
+title: NUAA Campus Honors
 date: 2025-06-01 12:00:00+0800
 display_date: Jun 2025
 inline: true

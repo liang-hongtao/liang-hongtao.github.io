@@ -9,7 +9,7 @@ profile:
   align: left
   image: profile.jpg
   image_circular: true
-  display_name: Hongtao Liang
+  display_name: 梁宏韬
   role: 博士研究生 @<br>NUAA
   links:
     - label: 南京
@@ -25,7 +25,7 @@ profile:
     - label: ORCID
       url: https://orcid.org/0000-0003-2014-3503
       icon: ai ai-orcid
-    - label: Github
+    - label: GitHub
       url: https://github.com/liang-hongtao
       icon: fa-brands fa-github
     - label: ResearchGate
@@ -36,7 +36,7 @@ profile:
       icon: fa-solid fa-file-pdf
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: true
@@ -51,7 +51,6 @@ latest_posts:
 当前研究关注智能体如何利用无线测量、视觉信息和环境语义进行感知、定位、频谱管理和协同决策。
 
 我尤其关注 **无线信号结构**、**机器人运动** 与 **不确定性决策** 之间的联系。
-这个个人主页用于统一维护中英文个人简介、论文、项目、新闻、荣誉、学术服务与简历信息。
 
 ## 研究方向
 
@@ -73,4 +72,4 @@ latest_posts:
 - 2025 年 3S 杯，全国二等奖。
 - 2023 年兴智杯全国人工智能创新应用大赛，二等奖。
 - 2023 年本科生学术论坛，一等奖。
-- 2022、2023 年美国大学生数学建模竞赛 Honorable Mention。
+- 2022、2023 年美国大学生数学建模竞赛荣誉奖（Honorable Mention）。

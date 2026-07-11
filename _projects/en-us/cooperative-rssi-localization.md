@@ -11,5 +11,6 @@ github: https://github.com/liang-hongtao/cooperative-rssi-loca
 This project organizes reusable algorithm code, experiment campaigns, baselines,
 metrics, visualizations, and paper-ready artifacts for cooperative RSSI localization.
 
-Replace this placeholder with the method summary, benchmark scope, result highlights,
-and release links after the repository is ready for public use.
+Current work focuses on belief-based source localization, informative multi-robot
+planning, robust estimation, reproducible baseline comparison, and the transition
+from simulation experiments to real-robot validation.

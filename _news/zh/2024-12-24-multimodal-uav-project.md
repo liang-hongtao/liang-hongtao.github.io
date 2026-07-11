@@ -1,7 +1,8 @@
 ---
 layout: post
+title: 多模态具身无人机自主导航培育项目
 date: 2024-12-24 12:00:00+0800
-display_date: 2024年12月24日
+display_date: 2024年12月
 inline: true
 related_posts: false
 ---

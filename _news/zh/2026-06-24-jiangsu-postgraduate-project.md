@@ -1,7 +1,8 @@
 ---
 layout: post
+title: 江苏省研究生科研实践创新计划项目申报
 date: 2026-06-24 12:00:00+0800
-display_date: 2026年6月24日
+display_date: 2026年6月
 inline: true
 related_posts: false
 ---

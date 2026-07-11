@@ -15,30 +15,11 @@
 - title: 教育经历
   type: time_table
   contents:
-    - title: 博士 / 硕士
+    - title: 博士研究生
       institution: 南京航空航天大学，中国南京
-      year: 2022 - 2026
+      year: 2022 - 至今
       description:
-        - 替换为学位、导师、论文题目和研究方向。
-    - title: 学士
-      institution: 补充此前就读单位
-      year: 2018 - 2022
-      description:
-        - 替换为本科专业和学校。
-
-- title: 工作与科研经历
-  type: time_table
-  contents:
-    - title: 科研岗位
-      institution: 你的实验室或院系，单位
-      year: 2026 - 至今
-      description:
-        - 补充当前岗位、实验室角色和主要职责。
-    - title: 访问 / 科研助理经历
-      institution: 访问单位
-      year: 2024 - 2025
-      description:
-        - 如有访问、实习或科研助理经历，可在这里补充。
+        - 无线感知、频谱智能、射频-视觉融合、无人机感知与具身智能。
 
 - title: 代表项目
   type: time_table
@@ -75,11 +56,11 @@
         - 兴智杯全国人工智能创新应用大赛，二等奖。
         - 本科生学术论坛，一等奖。
         - 大学成就奖提名奖。
-        - 美国大学生数学建模竞赛 Honorable Mention。
+        - 美国大学生数学建模竞赛荣誉奖（Honorable Mention）。
         - 三好学生与优秀奖学金二等奖。
     - year: 2022
       items:
-        - 美国大学生数学建模竞赛 Honorable Mention。
+        - 美国大学生数学建模竞赛荣誉奖（Honorable Mention）。
         - 大学生创新创业训练计划结题。
         - 中韩优秀大学生夏令营，表现优异。
         - 航天大赛优秀志愿者，省级。

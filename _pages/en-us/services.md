@@ -40,7 +40,6 @@ nav_order: 4
 
 - Reviewer for journals and conferences in wireless sensing, robotics, communications, and artificial intelligence.
 - Research code organization, benchmark preparation, and reproducible experiment maintenance for cooperative RF localization.
-- Add journal names, conference names, and service years here after confirming what should be public.
 
 ## Community Service
 

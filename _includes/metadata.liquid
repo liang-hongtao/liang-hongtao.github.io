@@ -15,13 +15,14 @@
 {% endif %}
 
 {% capture author_name %}{{ site.first_name }}{% if site.middle_name %} {{ site.middle_name }}{% endif %} {{ site.last_name }}{% endcapture %}
+{% assign localized_site_name = site.data[site.active_lang].strings.site_name | default: author_name %}
 
 <!-- Standard metadata -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {% if site.title == 'blank' %}
-  {% capture title %}{{ author_name }}{% endcapture %}
+  {% capture title %}{{ localized_site_name }}{% endcapture %}
 {% else %}
   {% capture title %}{{ site.title }}{% endcapture %}
 {% endif %}
