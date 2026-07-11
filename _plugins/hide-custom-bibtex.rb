@@ -7,6 +7,9 @@ module Jekyll
 		    input = input.gsub(/^.*\b#{keyword}\b *= *\{.*$\n/, '')
 	    end
 
+      # Localized display-only fields are not valid portable BibTeX metadata.
+      input = input.gsub(/^.*\b\w+_zh\b *= *\{.*$\n/, '')
+
       # Clean superscripts in author lists
       input = input.gsub(/^.*\bauthor\b *= *\{.*$\n/) { |line| line.gsub(/[*†‡§¶‖&^]/, '') }
 

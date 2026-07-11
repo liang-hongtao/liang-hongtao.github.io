@@ -47,8 +47,24 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+    {% assign localized_entry_title = entry.title %}
+    {% assign localized_journal = entry.journal %}
+    {% assign localized_booktitle = entry.booktitle %}
+    {% assign localized_note = entry.note %}
+    {% assign localized_abstract = entry.abstract %}
+    {% assign localized_award = entry.award %}
+    {% assign localized_award_name = entry.award_name %}
+    {% if site.active_lang == 'zh' %}
+      {% if entry.title_zh %}{% assign localized_entry_title = entry.title_zh %}{% endif %}
+      {% if entry.journal_zh %}{% assign localized_journal = entry.journal_zh %}{% endif %}
+      {% if entry.booktitle_zh %}{% assign localized_booktitle = entry.booktitle_zh %}{% endif %}
+      {% if entry.note_zh %}{% assign localized_note = entry.note_zh %}{% endif %}
+      {% if entry.abstract_zh %}{% assign localized_abstract = entry.abstract_zh %}{% endif %}
+      {% if entry.award_zh %}{% assign localized_award = entry.award_zh %}{% endif %}
+      {% if entry.award_name_zh %}{% assign localized_award_name = entry.award_name_zh %}{% endif %}
+    {% endif %}
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">{{ localized_entry_title }}</div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -164,9 +180,9 @@
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
     {% if entry.type == 'article' %}
-      {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{ localized_journal }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% capture entrytype %}<em>{{ site.data[site.active_lang].strings.bibliography.book_prefix }} {{ entry.booktitle }}</em>{% endcapture %}
+      {% capture entrytype %}<em>{{ site.data[site.active_lang].strings.bibliography.book_prefix }} {{ localized_booktitle }}</em>{% endcapture %}
     {% elsif thesis contains entry.type %}
       {% capture entrytype %}<em>{{ entry.school }}</em>{% endcapture %}
     {% else %}
@@ -205,14 +221,14 @@
       {{ periodical | strip }}
     </div>
     <div class="periodical">
-      {{ entry.note | strip }}
+      {{ localized_note | strip }}
     </div>
 
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
         <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}{{ site.data[site.active_lang].strings.bibliography.awarded }}{% endif -%}
+          {%- if localized_award_name %}{{ localized_award_name }}{% else %}{{ site.data[site.active_lang].strings.bibliography.awarded }}{% endif -%}
         </a>
       {% endif %}
       {% if entry.abstract %}
@@ -383,17 +399,17 @@
       {% endif %}
     {% endif %}
 
-    {% if entry.award %}
+    {% if localized_award %}
       <!-- Hidden Award block -->
       <div class="award hidden d-print-inline">
-        <p>{{ entry.award | markdownify }}</p>
+        <p>{{ localized_award | markdownify }}</p>
       </div>
     {% endif %}
 
-    {% if entry.abstract %}
+    {% if localized_abstract %}
       <!-- Hidden abstract block -->
       <div class="abstract hidden">
-        <p>{{ entry.abstract }}</p>
+        <p>{{ localized_abstract }}</p>
       </div>
     {% endif %}
 

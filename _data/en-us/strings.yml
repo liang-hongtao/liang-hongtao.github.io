@@ -6,6 +6,7 @@ archive:
 bibliography:
   abstract: Abs
   awarded: Awarded
+  filter: Type to filter publications
   blog: Blog
   book_prefix: In
   code: Code

@@ -43,6 +43,9 @@
 - title: 荣誉奖励
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - IEEE ICC 通信与信息系统安全专题研讨会，最佳论文奖。
     - year: 2025
       items:
         - 第十四届“天宫杯”研究生创新实验竞赛，杰出成果奖。

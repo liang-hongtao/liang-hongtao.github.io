@@ -14,6 +14,16 @@
   url: https://www.comsoc.org/publications/magazines/ieee-communications-magazine
   color: "#007377"
 
+"ICC":
+  url: https://icc2026.ieee-icc.org/
+  color: "#00629b"
+
+"ZTE Tech":
+  color: "#008c95"
+
+"AES":
+  color: "#8b1e3f"
+
 "WCSP":
   color: "#005f73"
 

@@ -3,7 +3,7 @@ page_id: publications
 layout: page
 permalink: /publications/
 title: 论文
-description: 从 _bibliography/papers.bib 自动生成的论文列表。
+description: 按年份整理的完整论文列表。
 nav: true
 nav_order: 2
 ---

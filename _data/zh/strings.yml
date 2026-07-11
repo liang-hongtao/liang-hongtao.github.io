@@ -6,6 +6,7 @@ archive:
 bibliography:
   abstract: 摘要
   awarded: 奖项
+  filter: 输入关键词筛选论文
   blog: 博客
   book_prefix: 发表于
   code: 代码

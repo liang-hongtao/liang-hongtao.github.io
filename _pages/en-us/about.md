@@ -67,6 +67,7 @@ I am especially interested in algorithms that connect **radio-signal structure**
 
 ## Selected Honors
 
+- Best Paper Award, Symposium on Communication and Information Systems Security, IEEE ICC, 2026.
 - Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition, 2025.
 - Third Prize, Mission Skills Division, 10th International UAV Innovation Grand Prix, 2025.
 - National Second Prize, 3S Cup, 2025.

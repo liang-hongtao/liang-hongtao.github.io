@@ -43,6 +43,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - Best Paper Award, Symposium on Communication and Information Systems Security, IEEE ICC.
     - year: 2025
       items:
         - Outstanding Achievement Award, 14th "Tiangong Cup" Graduate Innovation Experiment Competition.

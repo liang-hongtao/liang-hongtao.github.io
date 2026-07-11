@@ -3,7 +3,7 @@ page_id: publications
 layout: page
 permalink: /publications/
 title: publications
-description: selected and full publications, generated from _bibliography/papers.bib.
+description: Full publication list organized by year.
 nav: true
 nav_order: 2
 ---
