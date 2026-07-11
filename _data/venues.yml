@@ -14,6 +14,21 @@
   url: https://www.comsoc.org/publications/magazines/ieee-communications-magazine
   color: "#007377"
 
+"WCSP":
+  color: "#005f73"
+
+"ICCC":
+  color: "#8a4f00"
+
+"Ucom":
+  color: "#356859"
+
+"iWRFAT":
+  color: "#6c5b2d"
+
+"ACCTCS":
+  color: "#3f5d7d"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#b31b1b"
