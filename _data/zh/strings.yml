@@ -65,7 +65,7 @@ cv:
   highlights: 主要内容
   image: 图片
   institution: 单位
-  interests: 研究兴趣
+  interests: 研究方向
   issuer: 颁发单位
   keywords: 关键词
   label: 标签
@@ -195,4 +195,4 @@ language_names:
 site_name: 梁宏韬
 about_heading: 个人简介
 selected_publications: 代表论文
-site_description: 无线感知、协同定位与具身智能方向学术主页。
+site_description: 低空具身智能与电磁频谱具身智能管控方向学术主页。

@@ -10,7 +10,7 @@
     - name: Email
       value: <a href="mailto:ceie.lht@nuaa.edu.cn">ceie.lht@nuaa.edu.cn</a>
     - name: Research Areas
-      value: Wireless sensing, spectrum intelligence, RF-vision fusion, UAV perception, embodied intelligence
+      value: Low-altitude embodied intelligence; embodied intelligence for electromagnetic spectrum management and control
 
 - title: Education
   type: time_table
@@ -19,7 +19,7 @@
       institution: Nanjing University of Aeronautics and Astronautics, Nanjing, China
       year: 2023 - Present
       description:
-        - Wireless sensing, spectrum intelligence, RF-vision fusion, UAV perception, and embodied intelligence.
+        - Research areas: low-altitude embodied intelligence and embodied intelligence for electromagnetic spectrum management and control.
     - title: B.Eng. in Information Engineering (Excellence Program)
       institution: Nanjing University of Aeronautics and Astronautics, Nanjing, China
       year: 2019 - 2023
@@ -84,15 +84,12 @@
         - Academic Scholarship and Excellent Student Scholarship.
         - Outstanding League Member, Merit Student, and Outstanding Student Cadre.
 
-- title: Academic Interests
+- title: Research Directions
   type: nested_list
   contents:
-    - title: Cooperative RF Localization
+    - title: Low-Altitude Embodied Intelligence
       items:
-        - RSSI belief updates, active sensing, source seeking, and target localization.
-    - title: Planning Under Uncertainty
+        - Multimodal environmental perception, localization and mapping, autonomous navigation, fault-tolerant control, and mission decision-making for low-altitude unmanned systems.
+    - title: Embodied Intelligence for Electromagnetic Spectrum Management and Control
       items:
-        - Informative action selection, lookahead, rescue/service strategies, and robust estimation.
-    - title: Embodied Wireless Intelligence
-      items:
-        - RF perception, robot mobility, and deployable sensing systems.
+        - Spectrum sensing and situational awareness, non-cooperative emitter localization and tracking, RF-vision fusion, and embodied autonomous control.

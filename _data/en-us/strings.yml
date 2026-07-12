@@ -52,7 +52,7 @@ cv:
   highlights: Highlights
   image: Image
   institution: Institution
-  interests: Interests
+  interests: Research Directions
   issuer: Issuer
   keywords: Keywords
   label: Label
@@ -182,4 +182,4 @@ language_names:
 site_name: Hongtao Liang
 about_heading: About Me
 selected_publications: selected publications
-site_description: Academic homepage for wireless sensing, cooperative localization, and embodied intelligence.
+site_description: Academic homepage for low-altitude embodied intelligence and embodied intelligence for electromagnetic spectrum management and control.

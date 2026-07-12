@@ -2,7 +2,7 @@
 page_id: gnss_denied_emitter_localization
 layout: page
 title: GNSS拒止环境下非合作辐射源具身定位
-description: 面向GNSS拒止环境，研究非合作辐射源的主动感知与具身定位方法。
+description: 面向电磁频谱具身智能管控，研究GNSS拒止环境下非合作辐射源的主动感知与具身定位方法。
 importance: 3
 category: research
 ---
@@ -13,4 +13,4 @@ category: research
 
 **项目状态：** 已获批
 
-该项目面向GNSS拒止环境，研究移动智能体利用无线观测与主动探索实现非合作辐射源具身定位的方法。
+该项目属于电磁频谱具身智能管控方向，面向GNSS拒止环境，研究移动智能体利用无线观测与主动探索实现非合作辐射源具身定位的方法。

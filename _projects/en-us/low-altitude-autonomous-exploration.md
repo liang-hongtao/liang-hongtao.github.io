@@ -2,7 +2,7 @@
 page_id: low_altitude_autonomous_exploration
 layout: page
 title: Localization, Navigation, and Fault-Tolerant Control for Low-Altitude Autonomous Exploration
-description: A selected project on reliable localization, navigation, and fault-tolerant control for low-altitude autonomous exploration missions.
+description: A selected low-altitude embodied intelligence project on reliable localization, navigation, and fault-tolerant control for autonomous exploration missions.
 importance: 2
 category: research
 ---
@@ -13,4 +13,4 @@ category: research
 
 **Status:** Selected
 
-The project studies localization and navigation reliability together with fault-tolerant control for autonomous agents operating in low-altitude exploration missions.
+This low-altitude embodied intelligence project studies localization and navigation reliability together with fault-tolerant control for autonomous agents operating in low-altitude exploration missions.

@@ -3,7 +3,7 @@ page_id: about
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student working on embodied wireless intelligence and low-altitude autonomous systems.
+subtitle: Ph.D. student researching low-altitude embodied intelligence and embodied intelligence for electromagnetic spectrum management and control.
 
 profile:
   align: left
@@ -47,15 +47,14 @@ latest_posts:
   enabled: false
 ---
 
-I am a **Ph.D. student in Information and Communication Engineering at the College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)**, advised by **Prof. Qihui Wu, an IEEE Fellow**. My research focuses on **embodied wireless intelligence and low-altitude autonomous systems**, at the intersection of wireless sensing, spectrum intelligence, RF-vision fusion, and autonomous UAV navigation. I study how intelligent agents can use radio, vision, and LiDAR observations to localize, map, perceive targets, and make decisions in GNSS-denied and unknown environments.
+I am a **Ph.D. student in Information and Communication Engineering at the College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)**, advised by **Prof. Qihui Wu, an IEEE Fellow**. My research focuses on **low-altitude embodied intelligence** and **embodied intelligence for electromagnetic spectrum management and control**. I study multimodal perception, autonomous navigation, and mission decision-making for low-altitude unmanned systems, together with spectrum sensing, situational awareness, emitter localization and tracking, and intelligent spectrum control through embodied agents in GNSS-denied and unknown environments.
 
 I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and Nature Portfolio's *Communications Engineering*, and accepted by IEEE ICC 2026. The ICC paper received the **IEEE ICC 2026 Best Paper Award**.
 
-## Research Interests
+## Research Directions
 
-- **Cooperative RF localization:** source seeking, target localization, RSSI belief updates, and multi-agent wireless perception.
-- **Planning under uncertainty:** informative action selection, lookahead policies, rescue/service strategies, and robust final estimation.
-- **Embodied wireless intelligence:** deployable sensing systems that connect RF observations with robot mobility and scene understanding.
+- **Low-altitude embodied intelligence:** multimodal environmental perception, localization and mapping, autonomous navigation, fault-tolerant control, and mission decision-making for low-altitude unmanned systems.
+- **Embodied intelligence for electromagnetic spectrum management and control:** spectrum sensing and situational awareness, non-cooperative emitter localization and tracking, RF-vision fusion, and autonomous control that integrates radio observations, agent mobility, and scene understanding.
 
 ## Selected Projects
 

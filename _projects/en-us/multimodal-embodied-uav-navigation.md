@@ -2,7 +2,7 @@
 page_id: multimodal_embodied_uav_navigation
 layout: page
 title: Multimodal Perception-Driven Embodied UAV Autonomous Navigation System
-description: An incubation project on multimodal perception and embodied UAV autonomous navigation.
+description: A low-altitude embodied intelligence incubation project on multimodal perception and embodied UAV autonomous navigation.
 importance: 4
 category: research
 ---
@@ -13,7 +13,7 @@ category: research
 
 **Project type:** Incubation project
 
-The project studies an embodied UAV autonomous navigation system driven by multimodal environmental perception and intelligent decision-making.
+This low-altitude embodied intelligence project studies an embodied UAV autonomous navigation system driven by multimodal environmental perception and intelligent decision-making.
 
 ## Recognition
 

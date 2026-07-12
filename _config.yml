@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hongtao
 middle_name:
 last_name: Liang
-keywords: academic homepage, wireless sensing, RSSI localization, robotics, multi-robot systems
+keywords: academic homepage, low-altitude embodied intelligence, embodied intelligence for electromagnetic spectrum management and control, unmanned systems
 icon: profile.jpg # emoji or image filename in /assets/img/
 
 url: https://liang-hongtao.github.io # update after creating the GitHub Pages repository

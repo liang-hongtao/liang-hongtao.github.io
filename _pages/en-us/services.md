@@ -40,7 +40,7 @@ nav_order: 4
 
 ## Academic Service
 
-- Reviewer for journals and conferences in wireless sensing, robotics, communications, and artificial intelligence.
+- Reviewer for journals and conferences in low-altitude embodied intelligence, embodied intelligence for electromagnetic spectrum management and control, wireless communications, robotics, and artificial intelligence.
 - Research code organization, benchmark preparation, and reproducible experiment maintenance for cooperative RF localization.
 
 ## Community Service
