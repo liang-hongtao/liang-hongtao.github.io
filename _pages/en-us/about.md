@@ -58,8 +58,8 @@ I was selected for the **Interdisciplinary Innovation Fund under NUAA's Graduate
 
 ## Selected Projects
 
-- **“Navigation Plan” Interdisciplinary Innovation Fund (selected, 2026):** [Localization, Navigation, and Fault-Tolerant Control for Low-Altitude Autonomous Exploration](/projects/low-altitude-autonomous-exploration/).
-- **2026 Postgraduate Research & Practice Innovation Program of Jiangsu Province (approved):** [Embodied Localization of Non-Cooperative Radio Emitters in GNSS-Denied Environments](/projects/gnss-denied-emitter-localization/).
+- **“Navigation Plan” Interdisciplinary Innovation Fund**
+- **Postgraduate Research & Practice Innovation Program of Jiangsu Province**
 
 ## Selected Honors
 
