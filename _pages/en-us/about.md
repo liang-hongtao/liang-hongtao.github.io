@@ -49,7 +49,7 @@ latest_posts:
 
 I am a **Ph.D. student in Information and Communication Engineering at the College of Electronic and Information Engineering, Nanjing University of Aeronautics and Astronautics (NUAA)**, advised by **Prof. Qihui Wu, an IEEE Fellow**. My research focuses on **low-altitude embodied intelligence** and **embodied intelligence for electromagnetic spectrum management and control**. I study multimodal perception, autonomous navigation, and mission decision-making for low-altitude unmanned systems, together with spectrum sensing, situational awareness, emitter localization and tracking, and intelligent spectrum control through embodied agents in GNSS-denied and unknown environments.
 
-I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and Nature Portfolio's *Communications Engineering*, and accepted by IEEE ICC 2026. The ICC paper received the **IEEE ICC 2026 Best Paper Award**.
+I was selected for the **Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training “Navigation Plan.”** My first-author work has appeared in *IEEE Communications Magazine* and *IEEE Communications Letters*, with collaborative work published in *IEEE Journal on Selected Areas in Communications* and Nature Portfolio's *Communications Engineering*, and accepted by IEEE ICC 2026. The ICC paper received the **IEEE ICC 2026 Best Paper Award**.
 
 ## Research Directions
 
@@ -58,7 +58,7 @@ I was selected for the **sixth-cohort Interdisciplinary Innovation Fund under NU
 
 ## Selected Projects
 
-- **Sixth-cohort “Navigation Plan” Interdisciplinary Innovation Fund (selected, 2026):** [Localization, Navigation, and Fault-Tolerant Control for Low-Altitude Autonomous Exploration](/projects/low-altitude-autonomous-exploration/).
+- **“Navigation Plan” Interdisciplinary Innovation Fund (selected, 2026):** [Localization, Navigation, and Fault-Tolerant Control for Low-Altitude Autonomous Exploration](/projects/low-altitude-autonomous-exploration/).
 - **2026 Postgraduate Research & Practice Innovation Program of Jiangsu Province (approved):** [Embodied Localization of Non-Cooperative Radio Emitters in GNSS-Denied Environments](/projects/gnss-denied-emitter-localization/).
 
 ## Selected Honors

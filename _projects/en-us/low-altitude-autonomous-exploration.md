@@ -7,7 +7,7 @@ importance: 2
 category: research
 ---
 
-**Program:** Interdisciplinary Innovation Fund for Doctoral Students of Nanjing University of Aeronautics and Astronautics, sixth Graduate Top Innovation Talent Training "Navigation Plan"
+**Program:** Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training "Navigation Plan"
 
 **Selection:** May 2026
 

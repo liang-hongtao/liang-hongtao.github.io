@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-入选南京航空航天大学研究生拔尖创新人才培养“引航计划”六期跨学科创新基金，项目为“[面向低空自主探索任务的定位导航与容错控制技术研究](/zh/projects/low-altitude-autonomous-exploration/)”。
+入选南京航空航天大学研究生拔尖创新人才培养“引航计划”跨学科创新基金，项目为“[面向低空自主探索任务的定位导航与容错控制技术研究](/zh/projects/low-altitude-autonomous-exploration/)”。

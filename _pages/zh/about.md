@@ -49,7 +49,7 @@ latest_posts:
 
 我是 **南京航空航天大学电子信息工程学院信息与通信工程专业博士研究生**，导师为 **吴启晖教授（IEEE Fellow）**。研究聚焦两条主线：**低空具身智能**与**电磁频谱具身智能管控**，围绕低空无人系统的多模态感知、自主导航与任务决策，以及电磁频谱环境中的感知、认知、定位追踪与智能管控开展研究。我致力于让具身智能体在 GNSS 拒止和未知环境中，融合无线、视觉与激光雷达等多模态观测完成自主感知、决策与行动。
 
-我入选 **南京航空航天大学研究生拔尖创新人才培养“引航计划”六期跨学科创新基金**。以第一作者在 *IEEE Communications Magazine*、*IEEE Communications Letters* 等期刊发表论文，合作成果发表于 *IEEE Journal on Selected Areas in Communications* 和 Nature Portfolio 旗下 *Communications Engineering*，并被 IEEE ICC 2026 录用；其中 ICC 论文获 **IEEE ICC 2026 最佳论文奖**。
+我入选 **南京航空航天大学研究生拔尖创新人才培养“引航计划”跨学科创新基金**。以第一作者在 *IEEE Communications Magazine*、*IEEE Communications Letters* 等期刊发表论文，合作成果发表于 *IEEE Journal on Selected Areas in Communications* 和 Nature Portfolio 旗下 *Communications Engineering*，并被 IEEE ICC 2026 录用；其中 ICC 论文获 **IEEE ICC 2026 最佳论文奖**。
 
 ## 研究方向
 
@@ -58,7 +58,7 @@ latest_posts:
 
 ## 代表项目
 
-- **“引航计划”六期跨学科创新基金项目（已入选，2026）：** [面向低空自主探索任务的定位导航与容错控制技术研究](/zh/projects/low-altitude-autonomous-exploration/)。
+- **“引航计划”跨学科创新基金项目（已入选，2026）：** [面向低空自主探索任务的定位导航与容错控制技术研究](/zh/projects/low-altitude-autonomous-exploration/)。
 - **2026年度江苏省研究生科研实践创新计划项目（已获批）：** [GNSS拒止环境下非合作辐射源具身定位](/zh/projects/gnss-denied-emitter-localization/)。
 
 ## 代表性荣誉

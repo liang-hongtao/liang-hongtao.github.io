@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-Selected for the sixth Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training "Navigation Plan" with the project "[Research on Localization, Navigation, and Fault-Tolerant Control Technologies for Low-Altitude Autonomous Exploration Missions](/projects/low-altitude-autonomous-exploration/)."
+Selected for the Interdisciplinary Innovation Fund under NUAA's Graduate Top Innovation Talent Training "Navigation Plan" with the project "[Research on Localization, Navigation, and Fault-Tolerant Control Technologies for Low-Altitude Autonomous Exploration Missions](/projects/low-altitude-autonomous-exploration/)."
